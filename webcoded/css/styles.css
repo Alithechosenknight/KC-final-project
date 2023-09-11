@@ -88,6 +88,9 @@
   background-color: #F5F5F5;
   text-align: center;
 }
+.stic{
+  position: sticky;
+}
 .a12{
 text-align: center;
 }
@@ -7233,6 +7236,7 @@ textarea.form-control-lg {
 
 .d-flex {
   display: flex !important;
+  position: sticky;
 }
 
 .d-inline-flex {
@@ -11035,6 +11039,7 @@ textarea.form-control-lg {
   }
 }
 #wrapper {
+  position: sticky;
   overflow-x: hidden;
 }
 

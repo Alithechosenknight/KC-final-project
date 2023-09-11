@@ -5,30 +5,22 @@
 <div dir="rtl">
   
 ### اسم الطالب
-
+علي فارس الناصر
 
 ### اسم المشروع
-
+Sport Ultra
 
 # شرح الفكرة
-المشكلة والحلول المطروحة إن وجدت
+حل وبداية للتخلص على السمنة
 
 
 # الأعمال المستقبلية
-
+ bush!
+ موقع شركه
+ the Knight studio
 
 </div>
 
-> Fill out project information in English ⬇️
-### Student Name
 
-
-### Project Name
-
-# Idea
-Problem and solutions if found 
-
-
-# Future Work 
 
 
